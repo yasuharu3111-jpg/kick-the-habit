@@ -1,0 +1,16 @@
+{
+  "name": "KICK THE HABIT",
+  "short_name": "KICK THE HABIT",
+  "description": "悪い習慣を断ち切るトラッカー",
+  "start_url": "/kick-the-habit/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "cake.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
